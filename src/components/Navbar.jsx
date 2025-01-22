@@ -25,7 +25,7 @@ function Navbar() {
                     <div className='flex items-center gap-4'>
                         <img src="/assets/logo.png" alt="logo" className='w-[65px] h-[65px]' />
                         <h1 className="font-montserrat leading-[58px] text-[#1E1E1E] flex gap-1 font-bold whitespace-nowrap tracking-[1px] text-[48px]">
-                            M<span className='font-normal'>umair</span>
+                            M<span className='font-normal text-[#545454]'>umair</span>
                         </h1>
                     </div>
                 </div>

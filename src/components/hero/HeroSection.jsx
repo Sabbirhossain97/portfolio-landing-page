@@ -1,5 +1,6 @@
 import React from 'react'
 import { Facebook, Twitter,Instagram,LinkedIn } from '../SVG/SVGComponents'
+
 function HeroSection() {
     return (
         <div className='relative'>
