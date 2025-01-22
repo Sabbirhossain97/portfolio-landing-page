@@ -18,7 +18,7 @@ function AboutMe() {
                             <div className="flex flex-col gap-[30px]">
 
                                 <div className="flex flex-col">
-                                    <label for="ux" className="text-[24px] leading-9 font-semibold tracking-[0.03em]">UX</label>
+                                    <p className="text-[24px] leading-9 font-semibold tracking-[0.03em]">UX</p>
                                     <div className='relative flex items-center h-3'>
                                         <div
                                             className="w-full z-5 h-3 mt-[18px] bg-gray-200 rounded-lg appearance-none cursor-pointer accent-orange-500"
@@ -29,7 +29,7 @@ function AboutMe() {
                                 </div>
 
                                 <div className="flex flex-col">
-                                    <label for="website-design" className="text-[24px] leading-9 font-semibold tracking-[0.03em]">Website Design</label>
+                                    <p className="text-[24px] leading-9 font-semibold tracking-[0.03em]">Website Design</p>
                                     <div className='relative flex items-center h-3'>
                                         <div
                                             className="w-full z-5 h-3 mt-[18px] bg-gray-200 rounded-lg appearance-none cursor-pointer accent-orange-500"
@@ -40,7 +40,7 @@ function AboutMe() {
                                 </div>
 
                                 <div className="flex flex-col">
-                                    <label for="app-design" className="text-[24px] leading-9 font-semibold tracking-[0.03em]">App Design</label>
+                                    <p className="text-[24px] leading-9 font-semibold tracking-[0.03em]">App Design</p>
                                     <div className='relative flex items-center h-3'>
                                         <div
                                             className="w-full z-5 h-3 mt-[18px] bg-gray-200 rounded-lg appearance-none cursor-pointer accent-orange-500"
@@ -51,7 +51,7 @@ function AboutMe() {
                                 </div>
 
                                 <div className="flex flex-col">
-                                    <label for="graphic-design" className="text-[24px] leading-9 font-semibold tracking-[0.03em]">Graphic Design</label>
+                                    <p className="text-[24px] leading-9 font-semibold tracking-[0.03em]">Graphic Design</p>
                                     <div className='relative flex items-center h-3'>
                                         <div
                                             className="w-full z-5 h-3 mt-[18px] bg-gray-200 rounded-lg appearance-none cursor-pointer accent-orange-500"
