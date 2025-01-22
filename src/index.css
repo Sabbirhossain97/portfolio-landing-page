@@ -5,3 +5,11 @@
 .swiper-wrapper{
     top: -85px
 }
+
+.swiper-slide-prev{
+ opacity: 0.2;
+}
+
+.swiper-slide-next {
+    opacity: 0.2;
+}
