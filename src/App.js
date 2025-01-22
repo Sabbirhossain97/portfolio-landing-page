@@ -10,7 +10,7 @@ import Footer from "./components/Footer/Footer";
 function App() {
   return (
     <div>
-      <div className="relative bg-white overflow-hidden min-h-screen px-[250px]">
+      <div className="relative bg-white overflow-hidden min-h-screen max-w-[1423px] mx-auto">
         <Navbar />
         <HeroSection />
         <AboutMe />

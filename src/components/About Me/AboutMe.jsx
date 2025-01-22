@@ -1,22 +1,22 @@
-import React from 'react'
 
 function AboutMe() {
     return (
-        <div className='relative'>
-            <div className="mt-[120px] relative flex flex-col lg:flex-row gap-[148px]">
-                <div className='flex flex-col items-center lg:w-1/2'>
+        <div id="about" className='relative px-4 sm:px-10'>
+            <div className="mt-[120px] relative flex flex-col xl:flex-row gap-[64px] xl:gap-[148px]">
+                <div className='flex flex-col items-center w-full xl:w-1/2'>
                     <img src="/assets/about_me_photo.png" className='h-auto object-cover' alt='developer' />
                 </div>
-                <div className='lg:w-1/2 flex flex-col justify-center items-center'>
+                <div className='xl:w-1/2 flex flex-col justify-center items-center'>
                     <div className="mt-6">
                         <div className="top-0 order-last -mb-3 pt-3 ">
-                            <p className="font-semibold text-[65px] leading-[98px]">About Me</p>
+                            <p className="font-semibold text-[45px] lg:text-[65px] leading-[98px]">About Me</p>
                             <p className="font-normal text-[21px] leading-8 mt-[15px]">
                                 Lorem ipsum dolor sit amet consectetur. Tristique amet sed massa nibh lectus netus in. Aliquet donec morbi convallis pretium. Turpis tempus pharetra
                             </p>
                         </div>
                         <div className='mt-6'>
                             <div className="flex flex-col gap-[30px]">
+
                                 <div className="flex flex-col">
                                     <label for="ux" className="text-[24px] leading-9 font-semibold tracking-[0.03em]">UX</label>
                                     <div className='relative flex items-center h-3'>
