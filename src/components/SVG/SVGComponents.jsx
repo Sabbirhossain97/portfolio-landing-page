@@ -150,3 +150,11 @@ export const Graphic = () => {
         </svg>
     )
 }
+
+export const Quotation = () => {
+    return (
+        <svg xmlns="http://www.w3.org/2000/svg" width="15" height="10" viewBox="0 0 15 10" fill="none">
+            <path d="M5.816 9.112H0.216L3.8 0.535999H7.48L5.816 9.112ZM13.08 9.112H7.512L11.096 0.535999H14.744L13.08 9.112Z" fill="#FD6F00" />
+        </svg>
+    )
+}
