@@ -1,5 +1,6 @@
 import React from 'react'
 import { UI, Web, App, Graphic } from '../SVG/SVGComponents'
+
 function Services() {
     return (
         <div className='relative py-20'>
