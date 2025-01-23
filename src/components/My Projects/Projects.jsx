@@ -21,8 +21,8 @@ function Projects() {
                 <div className="flex flex-col items-center mt-24">
                     <div className="grid grid-cols-1 sm:grid-cols-1 lg:grid-cols-2 custom:grid-cols-3 gap-[44px]">
                         <div className="relative rounded-[14px] col-span-1 sm:w-[440px] sm:h-[601px] flex flex-col">
-                            <div className='h-[489px] bg-[#FFEBDB] rounded-xl relative'>
-                                <div className='absolute -bottom-3 left-[40px] z-10'>
+                            <div className='h-[489px] bg-[#FFEBDB] rounded-xl relative overflow-hidden'>
+                                <div className='absolute -bottom-3 left-[40px] z-10 '>
                                     <img src="assets/web_design_top.png" alt="top" className='h-full' />
                                 </div>
                                 <div className='absolute -top-2 z-0 right-[27px]'>
@@ -35,7 +35,7 @@ function Projects() {
                             </div>
                         </div>
                         <div className="relative rounded-[14px] col-span-1 sm:w-[440px] sm:h-[601px] flex flex-col">
-                            <div className='h-[489px] bg-[#FFEBDB] rounded-xl relative'>
+                            <div className='h-[489px] bg-[#FFEBDB] rounded-xl relative overflow-hidden'>
                                 <div className='absolute -bottom-3 left-[40px] z-10'>
                                     <img src="assets/web_design_2_top.png" alt="top" className='h-full' />
                                 </div>
@@ -49,7 +49,7 @@ function Projects() {
                             </div>
                         </div>
                         <div className="relative rounded-[14px] col-span-1 sm:w-[440px] sm:h-[601px] flex flex-col">
-                            <div className='h-[489px] bg-[#FFEBDB] rounded-xl relative'>
+                            <div className='h-[489px] bg-[#FFEBDB] rounded-xl relative overflow-hidden'>
                                 <div className='absolute -bottom-3 left-[40px] z-10'>
                                     <img src="assets/web_design_3_top.png" alt="top" className='h-full' />
                                 </div>
